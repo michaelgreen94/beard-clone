@@ -1,0 +1,51 @@
+/* *{
+    border: 1px solid green;
+} */
+
+.bg-blue {
+    background-color: #72b2d8;
+}
+
+.bg-white {
+    background-color: #fafafa;
+}
+
+.bg-darkblue {
+    background-color: #364049;
+}
+
+.justify-it {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgfill {
+    margin: auto;
+    background-size: cover;
+    
+}
+
+.coolfont {
+    font-family: 'Hanalei fill', cursive;
+}
+
+.coolfont2 {
+    font-family: 'Bitter', serif;
+}
+
+.coolfont3 {
+    font-family: 'Gaegu', cursive;
+}
+
+.rounded1 {
+    border-radius: 20px;
+    
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.bfont {
+    font-size: 10vh;
+}
