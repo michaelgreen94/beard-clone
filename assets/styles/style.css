@@ -1,0 +1,69 @@
+/* * {
+    border: 1px solid green;
+} */
+
+
+.bgimg {
+    background-image: url(/assets/images/valhalla.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgimg2 {
+    background-image: url(/assets/images/mimw.jpg);
+    background-size: cover;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.bgopac {
+    background-color: black;
+}
+
+.imgfill {
+    margin: auto;
+    height: 40%;
+    widows: 40%;
+}
+
+/* .nospill {
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    width: 100%;
+} */
+
+.fit {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.img {
+    font-size: 30px;
+    color: rgb(141, 141, 141);
+}
+
+.coolfont {
+    font-family: 'Hanalei fill', cursive;
+    color: #dc3545;
+}
+
+.coolfont2 {
+    font-family: 'Bitter', serif;
+}
+
+.coolfont3 {
+    font-family: 'Gaegu', cursive;
+}
+
+
+body {
+    background-color: #f5f5f5;
+}
+
+.bfont {
+    font-size: 10vh;
+}
