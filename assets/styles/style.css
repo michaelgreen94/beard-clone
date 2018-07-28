@@ -4,7 +4,7 @@
 
 
 .bgimg {
-    background-image: url(assets/images/valhalla.png);
+    background-image: url(/assets/images/valhalla.png);
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -13,7 +13,7 @@
 }
 
 .bgimg2 {
-    background-image: url(assets/images/mimw.jpg);
+    background-image: url(/assets/images/mimw.jpg);
     background-size: cover;
     max-width: 100%;
     max-height: 100%;
