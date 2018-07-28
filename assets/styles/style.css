@@ -13,14 +13,19 @@
 }
 
 .bgimg2 {
-    background-image: url(/assets/images/mimw.jpg);
-    background-size: cover;
+    background-image: url(/assets/images/mimw2.jpg);
+    background-size: 100%;
+    height: 90vh;
     max-width: 100%;
-    max-height: 100%;
+    background-repeat: no-repeat;
 }
 
 .bgopac {
     background-color: black;
+}
+
+.bgblk {
+    background-color: rgba(0, 0, 0, 0.63);
 }
 
 .imgfill {
